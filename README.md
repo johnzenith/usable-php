@@ -1,2 +1,2 @@
 # useable-php
-Functional and concise usable php codes in any projects.
+# PHP code in action. As we all know, demo it or it didn't happened!
